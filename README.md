@@ -6,3 +6,7 @@ I love curry🍛
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michimani&title_color=fff&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&hide_border=true" />
 </a>
+
+# Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
