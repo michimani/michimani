@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda の Extension API を使いたいがために Go で Lambda Extension を自作してみた](https://michimani.net/post/aws-lambda-extension-written-in-go/)
 - [コンテナイメージを使った Lambda 関数のあれこれ](https://michimani.net/post/aws-lambda-function-with-container-image/)
 - [AWS CLI で CloudFront の OAI を OAC に移行する](https://michimani.net/post/aws-migrate-cloudfront-oai-to-oac/)
 - [AWS CDK v2 &lpar;Go&rpar; で L1 Constructs を使う](https://michimani.net/post/aws-use-aws-cdk-l1-constructs-with-golang/)
 - [Terraform と OpenSearch CLI で OpenSearch Service に入門する](https://michimani.net/post/aws-get-started-opensearch-service-via-terraform/)
-- [AWS CLI のエイリアスを使ってメチャクチャ簡単にスイッチロールできるようにしてみた](https://michimani.net/post/aws-switch-role-via-aws-cli/)
 <!-- BLOG-POST-LIST:END -->
