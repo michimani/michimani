@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 年を雑に振り返る](https://michimani.net/post/other-retrospect-in-2022/)
 - [Telemetry API を使う Lambda Extension を作ってみた](https://michimani.net/post/aws-lambda-extension-using-telemetry-api/)
 - [AWS Lambda の Extension API を使いたいがために Go で Lambda Extension を自作してみた](https://michimani.net/post/aws-lambda-extension-written-in-go/)
 - [コンテナイメージを使った Lambda 関数のあれこれ](https://michimani.net/post/aws-lambda-function-with-container-image/)
 - [AWS CLI で CloudFront の OAI を OAC に移行する](https://michimani.net/post/aws-migrate-cloudfront-oai-to-oac/)
-- [AWS CDK v2 &lpar;Go&rpar; で L1 Constructs を使う](https://michimani.net/post/aws-use-aws-cdk-l1-constructs-with-golang/)
 <!-- BLOG-POST-LIST:END -->
