@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AtCoder Beginner Contest 190](https://michimani.net/post/programming-atcoder-beginner-contest-190/)
+- [AtCoder Beginner Contest 144](https://michimani.net/post/programming-atcoder-beginner-contest-144/)
 - [THIRD プログラミングコンテスト 2023 アルゴ（AtCoder Beginner Contest 318）](https://michimani.net/post/programming-atcoder-beginner-contest-318/)
 - [トヨタ自動車プログラミングコンテスト2023#8（AtCoder Beginner Contest 333）](https://michimani.net/post/programming-atcoder-beginner-contest-333/)
 - [AtCoder Beginner Contest 137](https://michimani.net/post/programming-atcoder-beginner-contest-137/)
-- [C++ で AtCoder やり始めたのでローカル環境の構築方法をメモしておく](https://michimani.net/post/programming-beginning-of-atcoder/)
-- [OpenAI API の Function Calling を使って自然言語で AWS リソースを作成してみる](https://michimani.net/post/ml-get-started-openai-function-calling/)
 <!-- BLOG-POST-LIST:END -->
