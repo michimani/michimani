@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 年を雑に振り返る](https://michimani.net/post/other-retrospect-in-2023/)
 - [第四回日本最強プログラマー学生選手権-予選-（AtCoder Beginner Contest 313）](https://michimani.net/post/programming-atcoder-beginner-contest-313/)
 - [AtCoder Beginner Contest 265](https://michimani.net/post/programming-atcoder-beginner-contest-265/)
 - [AtCoder Beginner Contest 131](https://michimani.net/post/programming-atcoder-beginner-contest-131/)
 - [AtCoder Beginner Contest 190](https://michimani.net/post/programming-atcoder-beginner-contest-190/)
-- [AtCoder Beginner Contest 144](https://michimani.net/post/programming-atcoder-beginner-contest-144/)
 <!-- BLOG-POST-LIST:END -->
