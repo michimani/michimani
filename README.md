@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [パナソニックプログラミングコンテスト2021&lpar;AtCoder Beginner Contest 231&rpar; の A/B/C 問題の解法 #ABC231](https://michimani.net/post/programming-atcoder-beginner-contest-231-abc/)
+- [AtCoder Beginner Contest 060 の A/B/C 問題の解法 #ABC060](https://michimani.net/post/programming-atcoder-beginner-contest-060-abc/)
 - [AtCoder Beginner Contest 043 の A/B/C 問題の解法 #ABC043](https://michimani.net/post/programming-atcoder-beginner-contest-043-abc/)
 - [AtCoder Beginner Contest 039 の A/B/C 問題の解法 #ABC039](https://michimani.net/post/programming-atcoder-beginner-contest-039-abc/)
 - [4ヶ月で AtCoder 入茶したので雑に振り返る](https://michimani.net/post/programming-atcoder-algorithm-ranks-brown/)
-- [AtCoder Beginner Contest 247 #ABC247](https://michimani.net/post/programming-atcoder-beginner-contest-247/)
-- [OpenTofu と Terraform で同じリソースを作成した場合の tfstate と lock ファイルの差分](https://michimani.net/post/infra-defference-between-opentofu-and-terraform/)
 <!-- BLOG-POST-LIST:END -->
