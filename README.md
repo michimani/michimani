@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [マイナビプログラミングコンテスト 2021（AtCoder Beginner Contest 201） の A/B/C 問題の解法 #ABC201](https://michimani.net/post/programming-atcoder-beginner-contest-201-abc/)
+- [Go 1.22 にアップデートしたらテストカバレッジがガクッと下がってびっくりした話](https://michimani.net/post/programming-golang-test-coverage-changes-in-go-1-22/)
 - [鹿島建設プログラミングコンテスト 2024（AtCoder Beginner Contest 340） の A/B/C 問題の解法 #ABC340](https://michimani.net/post/programming-atcoder-beginner-contest-340-abc/)
 - [日本レジストリサービス（JPRS）プログラミングコンテスト2024（AtCoder Beginner Contest 339） の A/B/C 問題の解法 #ABC339](https://michimani.net/post/programming-atcoder-beginner-contest-339-abc/)
 - [AtCoder Beginner Contest 338 の A/B/C 問題の解法 #ABC338](https://michimani.net/post/programming-atcoder-beginner-contest-338-abc/)
-- [パナソニックプログラミングコンテスト2021&lpar;AtCoder Beginner Contest 231&rpar; の A/B/C 問題の解法 #ABC231](https://michimani.net/post/programming-atcoder-beginner-contest-231-abc/)
-- [AtCoder Beginner Contest 060 の A/B/C 問題の解法 #ABC060](https://michimani.net/post/programming-atcoder-beginner-contest-060-abc/)
 <!-- BLOG-POST-LIST:END -->
