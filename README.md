@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AtCoder Beginner Contest 278 の A/B/C/D 問題の解法 #ABC278](https://michimani.net/post/programming-atcoder-beginner-contest-278-abcd/)
+- [AtCoder Beginner Contest 094 の A/B/C 問題の解法 #ABC094](https://michimani.net/post/programming-atcoder-beginner-contest-094-abc/)
+- [AtCoder Beginner Contest 041 の A/B/C 問題の解法 #ABC041](https://michimani.net/post/programming-atcoder-beginner-contest-041-abc/)
 - [HUAWEI Programming Contest 2024（AtCoder Beginner Contest 342） の A/B/C 問題の解法 #ABC342](https://michimani.net/post/programming-atcoder-beginner-contest-342-abc/)
 - [トヨタ自動車プログラミングコンテスト 2024#2（AtCoder Beginner Contest 341） の A/B/C 問題の解法 #ABC341](https://michimani.net/post/programming-atcoder-beginner-contest-341-abc/)
-- [マイナビプログラミングコンテスト 2021（AtCoder Beginner Contest 201） の A/B/C 問題の解法 #ABC201](https://michimani.net/post/programming-atcoder-beginner-contest-201-abc/)
-- [Go 1.22 にアップデートしたらテストカバレッジがガクッと下がってびっくりした話](https://michimani.net/post/programming-golang-test-coverage-changes-in-go-1-22/)
-- [鹿島建設プログラミングコンテスト 2024（AtCoder Beginner Contest 340） の A/B/C 問題の解法 #ABC340](https://michimani.net/post/programming-atcoder-beginner-contest-340-abc/)
 <!-- BLOG-POST-LIST:END -->
