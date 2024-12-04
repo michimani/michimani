@@ -11,9 +11,9 @@ I love curry🍛
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [vite + vanilla-ts で作る超シンプルな Chrome 拡張機能](https://michimani.net/post/programming-simple-chrome-ex-with-vite-vanilla-ts/)
 - [About Left Tabs Closer](https://michimani.net/projects/left-tabs-closer/about/)
 - [AtCoder Beginner Contest 194 の A/B/C 問題の解法 #ABC194](https://michimani.net/post/programming-atcoder-beginner-contest-194-abc/)
 - [トヨタ自動車プログラミングコンテスト2024#3（AtCoder Beginner Contest 344） の A/B/C/E 問題の解法 #ABC344](https://michimani.net/post/programming-atcoder-beginner-contest-344-abce/)
 - [AtCoder Beginner Contest 343 の A/B/C/D 問題の解法 #ABC343](https://michimani.net/post/programming-atcoder-beginner-contest-343-abcd/)
-- [AtCoder Beginner Contest 278 の A/B/C/D 問題の解法 #ABC278](https://michimani.net/post/programming-atcoder-beginner-contest-278-abcd/)
 <!-- BLOG-POST-LIST:END -->
