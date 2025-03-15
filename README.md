@@ -20,4 +20,9 @@ I love curry🍛
 
 # Latest note Posts
 <!-- NOTE-POST-LIST:START -->
+- [なだれ坂46卒業記念レポ](https://note.com/michimani/n/n44cd612465a9)
+- [2024年 雑多な振り返り](https://note.com/michimani/n/nf454da990ad5)
+- [2024/06/03](https://note.com/michimani/n/n894776b45ce7)
+- [2024/06/02](https://note.com/michimani/n/n7a3a28c349eb)
+- [2024/05/31](https://note.com/michimani/n/nb2ecde8211f5)
 <!-- NOTE-POST-LIST:END -->
