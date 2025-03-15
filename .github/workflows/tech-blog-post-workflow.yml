@@ -1,12 +1,12 @@
-name: Latest blog post workflow
+name: Latest tech blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 0 */3 * *' # Runs every 3 days
+    - cron: "0 0 */3 * *" # Runs every 3 days
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-tech-blog:
+    name: Update this repo's README with latest tech blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
