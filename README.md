@@ -20,9 +20,9 @@ I love curry🍛
 
 # Latest note Posts
 <!-- NOTE-POST-LIST:START -->
+- [はじめてのスタートアップ、 Nstock で過ごした3ヶ月の振り返り](https://note.com/michimani/n/nf685943d3448)
 - [Keyball44 テンティング記](https://note.com/michimani/n/n2cc8d0349fef)
 - [Nstock でやっていき](https://note.com/michimani/n/n85003d953fb8)
 - [Keyball44 の HOLD タイミング変更メモ](https://note.com/michimani/n/n25ecc32ab18b)
 - [Keyball44 組み立て後記](https://note.com/michimani/n/na865f4f93b52)
-- [なだれ坂46卒業記念レポ](https://note.com/michimani/n/n44cd612465a9)
 <!-- NOTE-POST-LIST:END -->
