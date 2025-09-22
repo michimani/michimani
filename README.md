@@ -11,11 +11,11 @@ I love curry🍛
 
 # Latest Tech Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AtCoder Beginner Contest 424 の A/B/C/D 問題の解法 #ABC424](https://michimani.net/post/programming-atcoder-beginner-contest-424-abcd/)
 - [AtCoder Beginner Contest 419 の A/B/C 問題の解法 #ABC419](https://michimani.net/post/programming-atcoder-beginner-contest-419-abcd/)
 - [AtCoder Beginner Contest 416 の A/B/C/D 問題の解法 #ABC416](https://michimani.net/post/programming-atcoder-beginner-contest-416-abcd/)
 - [AtCoder Beginner Contest 415 の A/B/C 問題の解法 #ABC415](https://michimani.net/post/programming-atcoder-beginner-contest-415-abc/)
 - [AtCoder Beginner Contest 414 の A/B/C 問題の解法 #ABC414](https://michimani.net/post/programming-atcoder-beginner-contest-414-abc/)
-- [AtCoder Beginner Contest 413 の A/B/C 問題の解法 #ABC413](https://michimani.net/post/programming-atcoder-beginner-contest-413-abc/)
 <!-- BLOG-POST-LIST:END -->
 
 # Latest note Posts
