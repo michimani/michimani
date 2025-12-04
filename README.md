@@ -11,11 +11,11 @@ I love curry🍛
 
 # Latest Tech Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ableton Live を MCP Server で操作する](https://michimani.net/post/control-ableton-live-bia-mcp-server/)
 - [Update Hugo Version to 0.150 From 0.113](https://michimani.net/post/update-hugo-version-to-0.150-from-0.113/)
 - [AtCoder Beginner Contest 424 の A/B/C/D 問題の解法 #ABC424](https://michimani.net/post/programming-atcoder-beginner-contest-424-abcd/)
 - [AtCoder Beginner Contest 419 の A/B/C 問題の解法 #ABC419](https://michimani.net/post/programming-atcoder-beginner-contest-419-abcd/)
 - [AtCoder Beginner Contest 416 の A/B/C/D 問題の解法 #ABC416](https://michimani.net/post/programming-atcoder-beginner-contest-416-abcd/)
-- [AtCoder Beginner Contest 415 の A/B/C 問題の解法 #ABC415](https://michimani.net/post/programming-atcoder-beginner-contest-415-abc/)
 <!-- BLOG-POST-LIST:END -->
 
 # Latest note Posts
