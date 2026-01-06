@@ -2,11 +2,11 @@ I love curry🍛
 
 # Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/?username=michimani&show_icons=true&title_color=fff&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&hide_border=true" />
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <img align="top" src="https://github-readme-stats-fast.vercel.app/api/?username=michimani&show_icons=true&title_color=fff&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michimani&title_color=fff&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&hide_border=true&hide=html&layout=donut&langs_count=6" />
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <img align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michimani&title_color=fff&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&hide_border=true&hide=html&layout=donut&langs_count=6" />
 </a>
 
 # Latest Tech Blog Posts
