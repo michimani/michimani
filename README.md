@@ -11,11 +11,11 @@ I love curry🍛
 
 # Latest Tech Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions で terraform plan を自動実行して結果を PR にコメントとして表示する](https://michimani.net/post/development-terraform-plan-on-github-actions)
 - [個人ブログを Hugo on CloudFront + S3 から Astro on Vercel に移行した](https://michimani.net/post/development-migrate-blog-from-hugo-to-astro)
 - [ホストマシン依存の AtCoder 環境 を dev container に寄せた](https://michimani.net/post/programming-set-up-devcontainer-for-atcoder-with-cpp)
 - [Ableton Live を MCP Server で操作する](https://michimani.net/post/control-ableton-live-bia-mcp-server)
 - [Update Hugo Version to 0.150 From 0.113](https://michimani.net/post/update-hugo-version-to-0.150-from-0.113)
-- [AtCoder Beginner Contest 424 の A/B/C/D 問題の解法 #ABC424](https://michimani.net/post/programming-atcoder-beginner-contest-424-abcd)
 <!-- BLOG-POST-LIST:END -->
 
 # Latest note Posts
