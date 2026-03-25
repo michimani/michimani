@@ -11,11 +11,11 @@ I love curry🍛
 
 # Latest Tech Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [C++ の未使用 include を削除する VS Code Extension『C++ Unused Includes Remover』 を作った](https://michimani.net/post/development-cpp-unused-includes-remover-vscode-extension)
 - [クライアント側で完結する EXIF 解析ツール EXIF Data Extractor を作った話](https://michimani.net/post/development-exif-data-extractor)
 - [GitHub Actions で terraform plan を自動実行して結果を PR にコメントとして表示する](https://michimani.net/post/development-terraform-plan-on-github-actions)
 - [個人ブログを Hugo on CloudFront + S3 から Astro on Vercel に移行した](https://michimani.net/post/development-migrate-blog-from-hugo-to-astro)
 - [ホストマシン依存の AtCoder 環境 を dev container に寄せた](https://michimani.net/post/programming-set-up-devcontainer-for-atcoder-with-cpp)
-- [Ableton Live を MCP Server で操作する](https://michimani.net/post/control-ableton-live-bia-mcp-server)
 <!-- BLOG-POST-LIST:END -->
 
 # Latest note Posts
