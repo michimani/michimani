@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://note.com/michimani/rss"
           comment_tag_name: "NOTE-POST-LIST"
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
