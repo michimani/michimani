@@ -20,9 +20,9 @@ I love curry🍛
 
 # Latest note Posts
 <!-- NOTE-POST-LIST:START -->
+- [macOS アプリを個人でリリースするまでにやったこと 〜 EXIF Extractor をつくった話](https://note.com/michimani/n/n2448f29f9b3a)
 - [2025年 雑多な振り返り](https://note.com/michimani/n/n855cfbc0357a)
 - [それ、あんまり、というかほとんどやったことなくてよくわからないので...](https://note.com/michimani/n/n3850fad84685)
 - [はじめてのスタートアップ、 Nstock で過ごした3ヶ月の振り返り](https://note.com/michimani/n/nf685943d3448)
 - [Keyball44 テンティング記](https://note.com/michimani/n/n2cc8d0349fef)
-- [Nstock でやっていき](https://note.com/michimani/n/n85003d953fb8)
 <!-- NOTE-POST-LIST:END -->
